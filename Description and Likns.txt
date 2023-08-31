@@ -1,0 +1,12 @@
+Description:
+
+The MATLAB Simulink code generation for a three-phase full controlled rectifier involves the development of a Simulink model and the generation of corresponding code to implement a rectification circuit that converts AC power to DC power with full control over the output voltage.
+A three-phase full controlled rectifier consists of six controlled switches (typically thyristors or IGBTs) arranged in a bridge configuration. The rectifier circuit is designed to accept three-phase AC input and produce a controlled DC output. By controlling the switching of the thyristors or IGBTs, the rectifier can regulate the magnitude and polarity of the DC voltage.
+In this project, a Simulink model is created to represent the three-phase full controlled rectifier. The model includes components such as AC voltage sources, controlled switches, diodes, inductors, and capacitors. The control strategy for the rectifier, such as pulse width modulation (PWM) or phase-angle control, is implemented using appropriate control algorithms in Simulink.
+Once the Simulink model is developed and validated, code generation is performed to generate executable code. The generated code can be deployed on hardware platforms, such as microcontrollers or DSPs, to implement the control algorithms and drive the thyristors or IGBTs in real-time applications.
+The MATLAB Simulink code generation for a three-phase full controlled rectifier provides a powerful tool for designing and implementing sophisticated rectification systems. It enables engineers to simulate, verify, and generate code for the rectifier circuit, facilitating the development of efficient and precise control strategies for various AC to DC power conversion applications.
+
+
+
+.xls src file Link:
+https://drive.google.com/drive/folders/1uOQIq0rkUXrcXedMcnfJa0mUhFFXNaOW?usp=drive_link
